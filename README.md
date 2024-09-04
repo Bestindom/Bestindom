@@ -8,7 +8,7 @@
 
 - 🖥️ Full stack developer.
 - 📚 I'm currently improving my javascript skills.
-- 🚀 I'm looking for a good team to work with. From the beginning, what caught my attention the most was the backend. However, that doesn't mean I don't like the front ;)
+- 🚀 From the beginning, what caught my attention the most was the backend. However, that doesn't mean I don't like the front ;)
 
 ## Languages
 
