@@ -7,8 +7,8 @@
 ## About Me
 
 - 🖥️ Full stack developer.
-- 📚 I'm currently improving my javascript skills.
-- 🚀 From the beginning, what caught my attention the most was the backend. However, that doesn't mean I don't like the front ;)
+- 📚 I'm currently studying an AI course.
+- 🚀 Working on personal projects.
 
 ## Languages
 
